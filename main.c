@@ -1,6 +1,6 @@
 
 /* 
-* Escreve um arquivo
+* Lê um arquivo
 * Instale make
 * $ sudo apt-get install make
 * Ou escreva parecido no terminal
