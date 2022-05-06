@@ -2,6 +2,7 @@
 /* 
 * Lê um arquivo
 * Instale make
+* alteracao
 * $ sudo apt-get install make
 * Ou escreva parecido no terminal
 * all:
